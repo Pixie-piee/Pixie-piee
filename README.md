@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Pranjal!!
 - 👀 I’m interested in coding and electronics
 - 🌱 I’m currently learning DSA in C++
-- 💞️ I’m looking to collaborate on coding projects in C or Python
+- 💞️ I’m looking to collaborate on coding projects in C or Python or cpp
 - 📫 How to reach me - patil12pranjal@gmail.com
-- 😄 Pronouns: her
-- ⚡ Fun fact: mark zuckerberg made facebook at the age of 19!
 
 <!---
 Pixie-piee/Pixie-piee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
