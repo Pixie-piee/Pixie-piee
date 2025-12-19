@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranjal!!
-- 👀 I’m interested in coding and research in physics
+- 👀 I’m interested in coding and electronics
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on coding projects in C or Python
 - 📫 How to reach me - patil12pranjal@gmail.com
