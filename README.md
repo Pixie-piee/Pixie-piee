@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Pranjal!!
-- 👀 I’m interested in coding and electronics
-- 🌱 I’m currently learning DSA in C++
-- 💞️ I’m looking to collaborate on coding projects in C or Python or cpp
-- 📫 How to reach me - patil12pranjal@gmail.com
+👋 Hi, I'm Pranjal!
+👀 Interested in AI agents, backend development, and competitive programming
+🌱 Currently building agent evaluation tooling + grinding Striver A2Z DSA
+🔨 Recently built Agent Arena — an AI agent comparison & failure analysis dashboard (Harbor Buildathon 2026)
+💞️ Open to collaborating on AI/ML projects, developer tools, or anything interesting in Python/C++
+📫 Reach me at patil12pranjal@gmail.com
 
 <!---
 Pixie-piee/Pixie-piee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
