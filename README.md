@@ -1,6 +1,24 @@
-* 👋 Hi, I'm Pranjal!
-* 👀 Interested in AI agents, backend development, and competitive programming
-* 🌱 Currently building agent evaluation tooling + grinding Striver A2Z DSA
-* 🔥 Latest project: Agent Arena — AI agent comparison & failure analysis dashboard built at Harbor Buildathon 2026
-* 💞️ Open to collaborating on AI/ML projects, backend systems, or anything involving LLMs
-* 📫 Reach me at patil12pranjal@gmail.com
+# Hi 👋, I'm Pranjal
+
+🎓 Electronics & Communication Engineering Student
+
+💻 Full-Stack Developer passionate about building real-world applications
+
+🤖 Interested in AI, Machine Learning, Backend Development, and Intelligent Systems
+
+🧩 Solving DSA problems and continuously improving my problem-solving skills
+
+🚀 Building projects that combine software, electronics, and automation
+
+## Tech Stack
+
+* C++
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* PostgreSQL
+* HTML & CSS
+* Git & GitHub
+
+📫 Reach me at: **[patil12pranjal@gmail.com](mailto:patil12pranjal@gmail.com)**
